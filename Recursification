@@ -1,3 +1,9 @@
+//Connor Ring
+//CMP237 Chapter 3 Exercise
+//Last worked on: 1/26/2015
+// This program is designed to detect if a number is an even number, as well as handling a negative number
+
+
 function isEven(n) {
   if (n == 0)
     return true;
